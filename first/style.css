@@ -1,0 +1,57 @@
+*{
+    color:black;
+    font-style: initial;
+    font-family: 'Times New Roman', Times, serif;
+    visibility: inherit;
+h1{
+    color:#0edbb5;
+    background-color:rgb(161, 27, 27);
+    font-size:xxx-large ;
+    text-align:center ;
+    font-weight:90;
+    text-decoration: none;
+}
+main {
+    color:black;
+    background-color:pink;
+    font-size:x-large;
+    text-align:100 center;
+    text-decoration:none
+}
+big{
+    color:aqua;
+    background-color:darkblue;
+    font-size:x-large;
+}
+pre{
+    color:black;
+    background:lightgoldenrodyellow;
+    font-size:medium;
+}
+button{
+    color:black;
+    background : rgb(14, 126, 195);
+
+}
+ul{
+    color:black;
+    background-color: burlywood;
+}
+caption{
+    color:black;
+    font-size:xx-large;
+}
+pre{
+    font-size:x-large;
+}
+p{
+    color:rgb(8, 4, 0);
+    background:rgb(29, 145, 203) ;
+    font-style:italic;
+}
+big{
+    color:black;
+    background:rgb(12, 175, 224);
+    font-style: italic;
+     
+}
